@@ -18,4 +18,4 @@ This project aims to demonstrate the process of creating an ETL (Extract, Transf
 
 ## Project Schema:
 
-![project_schema](https://raw.githubusercontent.com/VanGaigher/ETL_SalesRetail/blob/main/Project_schema.png)
+![project_schema](https://github.com/VanGaigher/ETL_SalesRetail/blob/main/Project_schema.png)
