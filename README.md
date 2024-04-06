@@ -13,9 +13,14 @@ This project aims to demonstrate the process of creating an ETL (Extract, Transf
 ### 3. Loading (Load)
 - After the data transformation, the next step is to load it into a PostgreSQL database. This will be done using appropriate tools and libraries in Python to establish a connection with the database and load the transformed data into corresponding tables.
 
+  ## Project Schema:
+
+![project_schema](https://github.com/VanGaigher/ETL_SalesRetail/blob/main/Project_schema.png)
+
+
 ### 4. Building Metrics and Dashboard
 - Once the data is loaded into PostgreSQL, it will be used to build metrics and a Dashboard in Power BI. Power BI offers a variety of tools and resources for creating interactive and informative data visualizations. The final Dashboard will be a visual representation of the insights obtained from the transformed data, allowing for deeper analysis and better understanding of patterns and trends.
 
-## Project Schema:
+![dashboard_salesreport](https://github.com/VanGaigher/ETL_SalesRetail/blob/main/dashboard.gif)
 
-![Project Schema](URL_of_the_Image)
+
